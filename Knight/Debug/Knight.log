@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Dev\AppVestoTasks\Knight\Knight\main.cpp(117,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Knight.vcxproj -> D:\Dev\AppVestoTasks\Knight\Debug\Knight.exe
